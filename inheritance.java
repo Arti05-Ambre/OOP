@@ -1,4 +1,5 @@
-package com.inheritance;
+
+ package com.inheritance;
 
 class Animal{
 	String Animalcolor = "White" ;
@@ -51,6 +52,14 @@ public class Demo {
 		Tiger a1 = new Tiger();
 		a1.display2();
 		a1.display();
+		System.out.println("");
+		Fish f1 = new Fish();
+		f1.display();
+		f1.display0();
+		System.out.println("");
+		Eagle e1 = new Eagle();
+		e1.display();
+		e1.display1();
 	}
 }
 
