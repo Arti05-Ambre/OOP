@@ -25,3 +25,6 @@ public class Per {
 output:-
 i am the person
 and i am student
+
+
+	done
